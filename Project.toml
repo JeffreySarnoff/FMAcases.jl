@@ -1,0 +1,7 @@
+name = "FMAcases"
+author = "Jeffrey Sarnoff <jeffrey.sarnoff@gmail.com>"
+uuid = "3ea315de-7c21-4b4b-888c-13bfa8b5b353"
+version = "0.1.0"
+
+[compat]
+julia = "1.11"
